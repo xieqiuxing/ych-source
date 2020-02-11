@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ych-small-major:war">
+    <output-path>$PROJECT_DIR$/ych-parent/ych-small/ych-small-major/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ych-small-major</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ych-small-major.war">
+      <element id="artifact" artifact-name="ych-small-major:war exploded" />
+    </root>
+  </artifact>
+</component>

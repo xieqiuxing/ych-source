@@ -1,0 +1,5 @@
+com\xqx\shiro\demo\realm\UserRealm.class
+com\xqx\shiro\demo\controller\UserController.class
+com\xqx\shiro\demo\PasswordHelper.class
+com\xqx\shiro\demo\mapper\UserMapper.class
+com\xqx\shiro\demo\entity\User.class

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ych-small-coupon-service:war">
+    <output-path>$PROJECT_DIR$/ych-parent/ych-small/ych-small-coupon/ych-small-coupon-service/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ych-small-coupon-service</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ych-small-coupon-service.war">
+      <element id="artifact" artifact-name="ych-small-coupon-service:war exploded" />
+    </root>
+  </artifact>
+</component>

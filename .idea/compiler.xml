@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ych-small-service" />
+        <module name="ych-small-pay-web" />
+        <module name="ych-manage-service" />
+        <module name="ych-small-web" />
+        <module name="ych-small-enroll-web" />
+        <module name="ych-small-major" />
+        <module name="ych-org-service" />
+        <module name="rocketmq-demo" />
+        <module name="ych-small-org" />
+        <module name="ych-dao" />
+        <module name="ych-small-coupon-service" />
+        <module name="ych-org-api" />
+        <module name="ych-common" />
+        <module name="ych-small-pay-service" />
+        <module name="ych-manage-web" />
+        <module name="ych-small-enroll-service" />
+        <module name="ych-small-api" />
+        <module name="ych-manage-api" />
+        <module name="ych-org-web" />
+        <module name="ych-small-coupon-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbox-demo" target="1.7" />
+      <module name="dubbox-service" target="1.7" />
+      <module name="dubbox-web" target="1.7" />
+      <module name="rocketmq-demo" target="1.5" />
+      <module name="ych-comment" target="1.5" />
+      <module name="ych-common" target="1.5" />
+      <module name="ych-dao" target="1.7" />
+      <module name="ych-manage-api" target="1.5" />
+      <module name="ych-manage-service" target="1.7" />
+      <module name="ych-manage-web" target="1.7" />
+      <module name="ych-org" target="1.5" />
+      <module name="ych-org-api" target="1.5" />
+      <module name="ych-org-service" target="1.7" />
+      <module name="ych-org-web" target="1.7" />
+      <module name="ych-parent" target="1.5" />
+      <module name="ych-shiro" target="1.7" />
+      <module name="ych-small" target="1.5" />
+      <module name="ych-small-api" target="1.5" />
+      <module name="ych-small-coupon" target="1.5" />
+      <module name="ych-small-coupon-service" target="1.7" />
+      <module name="ych-small-coupon-web" target="1.7" />
+      <module name="ych-small-enroll" target="1.5" />
+      <module name="ych-small-enroll-service" target="1.7" />
+      <module name="ych-small-enroll-web" target="1.7" />
+      <module name="ych-small-major" target="1.7" />
+      <module name="ych-small-org" target="1.7" />
+      <module name="ych-small-pay" target="1.5" />
+      <module name="ych-small-pay-service" target="1.7" />
+      <module name="ych-small-pay-web" target="1.7" />
+      <module name="ych-small-service" target="1.7" />
+      <module name="ych-small-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

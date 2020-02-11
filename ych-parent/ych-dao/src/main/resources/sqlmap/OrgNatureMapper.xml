@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xqx.ych.mapper.OrgNatureMapper">
+    <resultMap id="orgNatures" type="OrgNature">
+        <id column="nature_id" property="natureId"></id>
+        <result column="nature_name" property="natureName"></result>
+    </resultMap>
+    <select id="selectAll" resultMap="orgNatures">
+        select nature_id,nature_name from ych_org_nature
+    </select>
+</mapper>

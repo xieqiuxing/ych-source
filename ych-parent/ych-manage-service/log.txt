@@ -1,0 +1,13 @@
+[2019-12-23 18:38:24] [WARN ] -  [DUBBO] All clients has discontected from /192.168.71.1:20882. You can graceful shutdown now., dubbo version: 2.8.4, current host: 127.0.0.1
+[2019-12-23 18:39:10] [WARN ] -  [DUBBO] All clients has discontected from /192.168.71.1:20882. You can graceful shutdown now., dubbo version: 2.8.4, current host: 127.0.0.1
+[2019-12-23 18:40:40] [WARN ] -  [DUBBO] All clients has discontected from /192.168.71.1:20882. You can graceful shutdown now., dubbo version: 2.8.4, current host: 127.0.0.1
+[2019-12-23 18:42:24] [WARN ] -  [DUBBO] All clients has discontected from /192.168.71.1:20882. You can graceful shutdown now., dubbo version: 2.8.4, current host: 127.0.0.1
+[2019-12-23 18:44:05] [WARN ] -  [DUBBO] All clients has discontected from /192.168.71.1:20882. You can graceful shutdown now., dubbo version: 2.8.4, current host: 127.0.0.1
+[2019-12-23 18:47:32] [WARN ] -  [DUBBO] All clients has discontected from /192.168.71.1:20882. You can graceful shutdown now., dubbo version: 2.8.4, current host: 127.0.0.1
+[2019-12-23 18:52:40] [WARN ] -  [DUBBO] All clients has discontected from /192.168.71.1:20882. You can graceful shutdown now., dubbo version: 2.8.4, current host: 127.0.0.1
+[2019-12-23 19:00:30] [WARN ] -  [DUBBO] All clients has discontected from /192.168.71.1:20882. You can graceful shutdown now., dubbo version: 2.8.4, current host: 127.0.0.1
+[2019-12-23 19:04:16] [WARN ] -  [DUBBO] All clients has discontected from /192.168.71.1:20882. You can graceful shutdown now., dubbo version: 2.8.4, current host: 127.0.0.1
+[2019-12-23 19:05:48] [WARN ] -  [DUBBO] All clients has discontected from /192.168.71.1:20882. You can graceful shutdown now., dubbo version: 2.8.4, current host: 127.0.0.1
+[2019-12-23 19:06:21] [WARN ] -  [DUBBO] All clients has discontected from /192.168.71.1:20882. You can graceful shutdown now., dubbo version: 2.8.4, current host: 127.0.0.1
+[2019-12-23 19:07:43] [WARN ] -  [DUBBO] All clients has discontected from /192.168.71.1:20882. You can graceful shutdown now., dubbo version: 2.8.4, current host: 127.0.0.1
+[2019-12-23 19:12:21] [WARN ] -  [DUBBO] All clients has discontected from /192.168.71.1:20882. You can graceful shutdown now., dubbo version: 2.8.4, current host: 127.0.0.1

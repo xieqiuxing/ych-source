@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ych-manage-service:war">
+    <output-path>$PROJECT_DIR$/ych-parent/ych-manage-service/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ych-manage-service</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ych-manage-service.war">
+      <element id="artifact" artifact-name="ych-manage-service:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/ych-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/dubbox-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/dubbox-demo/dubbox-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/dubbox-demo/dubbox-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/rocketmq-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-manage-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-manage-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-manage-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-org" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-org/ych-org-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-org/ych-org-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-org/ych-org-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-coupon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-coupon/ych-small-coupon-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-coupon/ych-small-coupon-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-enroll" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-enroll/ych-small-enroll-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-enroll/ych-small-enroll-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-major" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-org" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-pay/ych-small-pay-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-pay/ych-small-pay-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

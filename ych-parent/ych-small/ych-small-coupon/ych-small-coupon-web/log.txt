@@ -1,0 +1,49 @@
+[2019-12-26 19:13:19] [WARN ] -  [DUBBO] Failed to save registry store file, cause: Can not lock the registry cache file C:\Users\lxxqx\.dubbo\dubbo-registry-192.168.71.13.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties, dubbo version: 2.8.4, current host: 192.168.71.1
+java.io.IOException: Can not lock the registry cache file C:\Users\lxxqx\.dubbo\dubbo-registry-192.168.71.13.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties
+	at com.alibaba.dubbo.registry.support.AbstractRegistry.doSaveProperties(AbstractRegistry.java:193)
+	at com.alibaba.dubbo.registry.support.AbstractRegistry$SaveProperties.run(AbstractRegistry.java:150)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2019-12-26 19:13:20] [WARN ] -  [DUBBO] Failed to save registry store file, cause: Can not lock the registry cache file C:\Users\lxxqx\.dubbo\dubbo-registry-192.168.71.13.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties, dubbo version: 2.8.4, current host: 192.168.71.1
+java.io.IOException: Can not lock the registry cache file C:\Users\lxxqx\.dubbo\dubbo-registry-192.168.71.13.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties
+	at com.alibaba.dubbo.registry.support.AbstractRegistry.doSaveProperties(AbstractRegistry.java:193)
+	at com.alibaba.dubbo.registry.support.AbstractRegistry$SaveProperties.run(AbstractRegistry.java:150)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2019-12-26 19:21:36] [WARN ] -  [DUBBO] Failed to save registry store file, cause: Can not lock the registry cache file C:\Users\lxxqx\.dubbo\dubbo-registry-192.168.71.13.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties, dubbo version: 2.8.4, current host: 192.168.71.1
+java.io.IOException: Can not lock the registry cache file C:\Users\lxxqx\.dubbo\dubbo-registry-192.168.71.13.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties
+	at com.alibaba.dubbo.registry.support.AbstractRegistry.doSaveProperties(AbstractRegistry.java:193)
+	at com.alibaba.dubbo.registry.support.AbstractRegistry$SaveProperties.run(AbstractRegistry.java:150)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2019-12-26 19:54:56] [WARN ] -  [DUBBO] Failed to save registry store file, cause: Can not lock the registry cache file C:\Users\lxxqx\.dubbo\dubbo-registry-192.168.71.13.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties, dubbo version: 2.8.4, current host: 192.168.71.1
+java.io.IOException: Can not lock the registry cache file C:\Users\lxxqx\.dubbo\dubbo-registry-192.168.71.13.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties
+	at com.alibaba.dubbo.registry.support.AbstractRegistry.doSaveProperties(AbstractRegistry.java:193)
+	at com.alibaba.dubbo.registry.support.AbstractRegistry$SaveProperties.run(AbstractRegistry.java:150)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2019-12-26 20:19:50] [WARN ] -  [DUBBO] Failed to save registry store file, cause: Can not lock the registry cache file C:\Users\lxxqx\.dubbo\dubbo-registry-192.168.71.13.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties, dubbo version: 2.8.4, current host: 192.168.71.1
+java.io.IOException: Can not lock the registry cache file C:\Users\lxxqx\.dubbo\dubbo-registry-192.168.71.13.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties
+	at com.alibaba.dubbo.registry.support.AbstractRegistry.doSaveProperties(AbstractRegistry.java:193)
+	at com.alibaba.dubbo.registry.support.AbstractRegistry$SaveProperties.run(AbstractRegistry.java:150)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2019-12-26 20:19:50] [WARN ] -  [DUBBO] Failed to save registry store file, cause: Can not lock the registry cache file C:\Users\lxxqx\.dubbo\dubbo-registry-192.168.71.13.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties, dubbo version: 2.8.4, current host: 192.168.71.1
+java.io.IOException: Can not lock the registry cache file C:\Users\lxxqx\.dubbo\dubbo-registry-192.168.71.13.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties
+	at com.alibaba.dubbo.registry.support.AbstractRegistry.doSaveProperties(AbstractRegistry.java:193)
+	at com.alibaba.dubbo.registry.support.AbstractRegistry$SaveProperties.run(AbstractRegistry.java:150)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[2019-12-26 20:19:53] [WARN ] -  [DUBBO] Failed to save registry store file, cause: Can not lock the registry cache file C:\Users\lxxqx\.dubbo\dubbo-registry-192.168.71.13.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties, dubbo version: 2.8.4, current host: 192.168.71.1
+java.io.IOException: Can not lock the registry cache file C:\Users\lxxqx\.dubbo\dubbo-registry-192.168.71.13.cache, ignore and retry later, maybe multi java process use the file, please config: dubbo.registry.file=xxx.properties
+	at com.alibaba.dubbo.registry.support.AbstractRegistry.doSaveProperties(AbstractRegistry.java:193)
+	at com.alibaba.dubbo.registry.support.AbstractRegistry$SaveProperties.run(AbstractRegistry.java:150)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)

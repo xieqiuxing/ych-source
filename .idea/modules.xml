@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/rocketmq-demo/rocketmq-demo.iml" filepath="$PROJECT_DIR$/ych-parent/rocketmq-demo/rocketmq-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-common/ych-common.iml" filepath="$PROJECT_DIR$/ych-parent/ych-common/ych-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-dao/ych-dao.iml" filepath="$PROJECT_DIR$/ych-parent/ych-dao/ych-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-manage-api/ych-manage-api.iml" filepath="$PROJECT_DIR$/ych-parent/ych-manage-api/ych-manage-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-manage-service/ych-manage-service.iml" filepath="$PROJECT_DIR$/ych-parent/ych-manage-service/ych-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-manage-web/ych-manage-web.iml" filepath="$PROJECT_DIR$/ych-parent/ych-manage-web/ych-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-org/ych-org.iml" filepath="$PROJECT_DIR$/ych-parent/ych-org/ych-org.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-org/ych-org-api/ych-org-api.iml" filepath="$PROJECT_DIR$/ych-parent/ych-org/ych-org-api/ych-org-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-org/ych-org-service/ych-org-service.iml" filepath="$PROJECT_DIR$/ych-parent/ych-org/ych-org-service/ych-org-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-org/ych-org-web/ych-org-web.iml" filepath="$PROJECT_DIR$/ych-parent/ych-org/ych-org-web/ych-org-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-parent.iml" filepath="$PROJECT_DIR$/ych-parent/ych-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-api/ych-small-api.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small-api/ych-small-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-coupon/ych-small-coupon.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small-coupon/ych-small-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-coupon/ych-small-coupon-service/ych-small-coupon-service.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small-coupon/ych-small-coupon-service/ych-small-coupon-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-coupon/ych-small-coupon-web/ych-small-coupon-web.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small-coupon/ych-small-coupon-web/ych-small-coupon-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-enroll/ych-small-enroll.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small-enroll/ych-small-enroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-enroll/ych-small-enroll-service/ych-small-enroll-service.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small-enroll/ych-small-enroll-service/ych-small-enroll-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-enroll/ych-small-enroll-web/ych-small-enroll-web.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small-enroll/ych-small-enroll-web/ych-small-enroll-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-major/ych-small-major.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small-major/ych-small-major.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-org/ych-small-org.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small-org/ych-small-org.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-pay/ych-small-pay.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small-pay/ych-small-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-pay/ych-small-pay-service/ych-small-pay-service.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small-pay/ych-small-pay-service/ych-small-pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-pay/ych-small-pay-web/ych-small-pay-web.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small-pay/ych-small-pay-web/ych-small-pay-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-service/ych-small-service.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small-service/ych-small-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-web/ych-small-web.iml" filepath="$PROJECT_DIR$/ych-parent/ych-small/ych-small-web/ych-small-web.iml" />
+    </modules>
+  </component>
+</project>

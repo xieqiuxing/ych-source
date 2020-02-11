@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ych-shiro:war">
+    <output-path>$PROJECT_DIR$/ych-parent/ych-shiro/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ych-shiro</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ych-shiro.war">
+      <element id="artifact" artifact-name="ych-shiro:war exploded" />
+    </root>
+  </artifact>
+</component>

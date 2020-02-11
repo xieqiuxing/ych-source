@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ych-parent/dubbox-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/ych-parent/ych-manage-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ych-parent/ych-manage-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ych-parent/ych-org/ych-org-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ych-parent/ych-org/ych-org-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ych-parent/ych-shiro" />
+    <file type="web" url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-coupon" />
+    <file type="web" url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-enroll/ych-small-enroll-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-enroll/ych-small-enroll-web" />
+    <file type="web" url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-major" />
+    <file type="web" url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-org" />
+    <file type="web" url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-service" />
+    <file type="web" url="file://$PROJECT_DIR$/ych-parent/ych-small/ych-small-web" />
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ych-parent/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ych-parent/dubbox-demo/dubbox-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ych-parent/dubbox-demo/dubbox-web/pom.xml" />
+        <option value="$PROJECT_DIR$/ych-parent/ych-manage-service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

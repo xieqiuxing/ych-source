@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dubbox-web:war">
+    <output-path>$PROJECT_DIR$/ych-parent/dubbox-demo/dubbox-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>dubbox-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="dubbox-web.war">
+      <element id="artifact" artifact-name="dubbox-web:war exploded" />
+    </root>
+  </artifact>
+</component>

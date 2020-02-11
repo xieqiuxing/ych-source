@@ -1,0 +1,22 @@
+# Project exclude paths
+/out/
+/ych-parent/rocketmq-demo/target/
+/ych-parent/ych-common/target/
+/ych-parent/ych-dao/target/
+/ych-parent/ych-manage-api/target/
+/ych-parent/ych-manage-service/target/
+/ych-parent/ych-manage-web/target/
+/ych-parent/ych-org/ych-org-api/target/
+/ych-parent/ych-org/ych-org-service/target/
+/ych-parent/ych-org/ych-org-web/target/
+/ych-parent/ych-small/ych-small-api/target/
+/ych-parent/ych-small/ych-small-coupon/ych-small-coupon-service/target/
+/ych-parent/ych-small/ych-small-coupon/ych-small-coupon-web/target/
+/ych-parent/ych-small/ych-small-enroll/ych-small-enroll-service/target/
+/ych-parent/ych-small/ych-small-enroll/ych-small-enroll-web/target/
+/ych-parent/ych-small/ych-small-major/target/
+/ych-parent/ych-small/ych-small-org/target/
+/ych-parent/ych-small/ych-small-pay/ych-small-pay-service/target/
+/ych-parent/ych-small/ych-small-pay/ych-small-pay-web/target/
+/ych-parent/ych-small/ych-small-service/target/
+/ych-parent/ych-small/ych-small-web/target/

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ych-small-enroll-web:war">
+    <output-path>$PROJECT_DIR$/ych-parent/ych-small/ych-small-enroll/ych-small-enroll-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ych-small-enroll-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ych-small-enroll-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ych-small-enroll-web:war exploded" />
+    </root>
+  </artifact>
+</component>
